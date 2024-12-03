@@ -1,3 +1,5 @@
+Variables And Methods
+
 Problem Statement:
 
 Mani finds himself in a queue of( n) people but is uncertain about his exact position. However, he's confident that there are at least( a) people in front of him and at most( b) people behind him. Mani seeks to determine the number of different positions he could occupy in the queue.
