@@ -1,6 +1,6 @@
 function and objects
 
-Problem Statement:
+# Problem Statement: 
 
 Many years ago, the country of Berland was inhabited by a small population of( n) individuals, each with their own savings. The government aimed to increase the number of wealthy individuals by implementing a series of reforms.
 
